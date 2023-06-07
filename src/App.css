@@ -1,8 +1,0 @@
-@font-face {
-    font-family: myFirstFont;
-    src: url('ironman.woff') format('woff');
-}
-
-h1{
-    font-family: myFirstFont;
-}
